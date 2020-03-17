@@ -1,7 +1,6 @@
 # JavaKnowledge
 Java面经
 感谢牛客网！
-@[Toc]
 ## Java基础知识
 1. **HashTable、HashMap、ConcurrentHashMap** 底层实现	，hashmap的hash计算方式？为什么要右移16位？HashMap扩容？ ConcurrentHashMap统计数据总量时的流程？put的流程，get流程、并发问题分析、哈希冲突（7次）
 2. **Synchronized** 的锁，Synchronized加锁流程？syn为什么效率低？	Synchronized是重量级的锁吗？能实现轻量锁吗？Synchronized是不是可重入锁？（5次）
