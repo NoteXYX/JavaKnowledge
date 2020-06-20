@@ -125,7 +125,7 @@ and `position` in
 |&|\&amp;|
 |’|\&apos;|
 |"|\&quot;|
-|!=|<![CDATA[<> ]]>|
+|!=|\<![CDATA[<> ]]>|
 
 4、数据库建表时推荐字符集：
 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
